@@ -32,13 +32,28 @@ Organized By Department of ECE at PEC(Deemed to be university), Chandigarh
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_3.png)
 
 ### Day-3 / SESSION-1 /10:00AM-11:30AM / Dr Shankar K. Selvaraja, IISC
-
 ![alt text]
 
 ### Day-3 / SESSION-2 /12:00noon-1:30PM / Dr Ramesh Kumar Sonkar, IITGuwahatti
-
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/20_slot_2.png)
 
 ### Day-3 / SESSION-3 /03:00PM-04:30PM / Dr. Samir Kumar Biswas, IISER Mohali
-
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/20_slot_3.png)
+
+### Day-4 / SESSION-1 /10:00AM-11:30AM / Dr Vipul Rastogi, IIT Roorkee
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/21_slot_1.png)
+
+### Day-4 / SESSION-2 /12:00noon-1:30PM / Mr Pravin Joshi, Director, FOS Pvt Ltd
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/21_slot_2.png)
+
+### Day-4 / SESSION-3 /03:00PM-04:30PM / Sumaya S Gupta, Scientist, SCL Mohali
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/21_slot_3.png)
+
+### Day-5 / SESSION-1 /10:00AM-11:30AM / Dr. H. S. Jatana, Scientist, SCL, Mohali
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/22_slot_1.png)
+
+### Day-5 / SESSION-2 /12:00noon-1:30PM / Dr Anshuman Kumar Srivastava, IIT Bombay
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/22_slot_2.png)
+
+### Day-5 / SESSION-3 /03:00PM-04:30PM / Dr. Soumendu Jana,, THAPPAR UNIVERSITY Patiala, Punjab
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/22_slot_3.png)

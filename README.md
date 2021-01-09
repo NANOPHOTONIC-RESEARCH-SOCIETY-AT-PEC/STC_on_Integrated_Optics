@@ -1,6 +1,11 @@
 # STC_on_Integrated_Optics
-Organized By Department of ECE at PEC(Deemed to be university), Chandigarh
+Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](https://pec.ac.in/ece)
 
+## Course Coordinators 
+
+- [Dr JYOTI KEDIA](https://pec.ac.in/jyoti-kedia), Assistant Professor @PEC(Deemed to be university).
+- [Dr DIVYA DHAWAN](https://pec.ac.in/divya-0), Associate Professor, @PEC(Deemed to be university).
+- [Dr NEENA GUPTA](https://pec.ac.in/neena-gupta), Professor & HEAD-ECE, @PEC(Deemed to be university).
 ## REGISTRATION
 
 **The registration will be done online using following link.**

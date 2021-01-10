@@ -37,7 +37,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_3.png)
 
 ### Day-3 / SESSION-1 /10:00AM-11:30AM / Dr Shankar K. Selvaraja, IISC
-![alt text]
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/20_slot_1.png)
 
 ### Day-3 / SESSION-2 /12:00noon-1:30PM / Dr Ramesh Kumar Sonkar, IITGuwahatti
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/20_slot_2.png)

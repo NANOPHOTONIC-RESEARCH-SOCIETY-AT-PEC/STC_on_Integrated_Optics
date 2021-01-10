@@ -3,9 +3,13 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 ## Course Coordinators 
 
-- [Dr JYOTI KEDIA](https://pec.ac.in/jyoti-kedia), Assistant Professor @PEC(Deemed to be university) ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Dr%20Kedia.PNG)
-- [Dr DIVYA DHAWAN](https://pec.ac.in/divya-0), Associate Professor, @PEC(Deemed to be university)![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Dr%20Dhawan.PNG)
-- [Dr NEENA GUPTA](https://pec.ac.in/neena-gupta), Professor & HEAD-ECE, @PEC(Deemed to be university)![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Dr%20Gupta.PNG)
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Dr%20Kedia.PNG)
+[Dr JYOTI KEDIA](https://pec.ac.in/jyoti-kedia)(Assistant Professor @PEC(Deemed to be university)
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Dr%20Dhawan.PNG)
+[Dr DIVYA DHAWAN](https://pec.ac.in/divya-0), Associate Professor, @PEC(Deemed to be university)
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Dr%20Gupta.PNG)
+[Dr NEENA GUPTA](https://pec.ac.in/neena-gupta), Professor & HEAD-ECE, @PEC(Deemed to be university)
+
 ## REGISTRATION
 
 **The registration will be done online using following link.**

@@ -28,7 +28,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/schedule_starter.png)
 
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/schedule.png)
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/schedule_updated.png)
 
 ## OUR ESTEEMED SPEAKERS 
 
@@ -39,7 +39,10 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_2.png)
 
 ### Day-1 / SESSION-3 /03:00PM-04:30PM / Dr Samudra Roy, IIT Kharagpur
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_3.png)
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_3_a.png)
+
+### Day-1 / SESSION-3 /04:30PM-05:30PM / Manpreet Singh, Ex - Associate Director, Terminal Ballistic Research Lab, DRDO, Min of Defence
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_3_b.png)
 
 ### Day-2 / SESSION-1 /10:00AM-11:30AM / Dr Dr Anurag Sharma, IIT Delhi
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_1.png)
@@ -48,7 +51,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_2.png)
 
 ### Day-2 / SESSION-3 /03:00PM-04:30PM / Dr. Umesh Kumar Tiwari, Scientist, SCL Mohali
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_3.png)
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_3_new.png)
 
 ### Day-3 / SESSION-1 /10:00AM-11:30AM / Dr Shankar K. Selvaraja, IISC
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/20_slot_1.png)

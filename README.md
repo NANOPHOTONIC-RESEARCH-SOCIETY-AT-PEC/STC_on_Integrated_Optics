@@ -51,7 +51,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 ### Day-1 / SESSION-3 /03:00PM-04:30PM / Dr Samudra Roy, IIT Kharagpur
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_3_a.png)
 
-### Day-1 / SESSION-4 /04:30PM-05:30PM / Manpreet Singh, Ex - Associate Director, Terminal Ballistic Research Lab, DRDO, Min of Defence
+### Day-1 / SESSION-4 /04:30PM-05:30PM / Mr. Manpreet Singh, Ex - Associate Director, Terminal Ballistic Research Lab, DRDO, Min of Defence
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_3_b.png)
 
 ### Day-2 / SESSION-1 /10:00AM-11:30AM / Dr Anurag Sharma, IIT Delhi

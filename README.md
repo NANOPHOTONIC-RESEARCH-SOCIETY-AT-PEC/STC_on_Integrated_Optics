@@ -38,7 +38,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 ## Scheduled Sessions
 
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/schedule_updated.PNG)
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/STC_TIME_Schedule.png)
 
 ## OUR ESTEEMED SPEAKERS 
 

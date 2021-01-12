@@ -38,9 +38,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 ## Scheduled Sessions
 
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/schedule_starter.png)
-
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/schedule_updated.PNG)
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Schedule_updated.pdf)
 
 ## OUR ESTEEMED SPEAKERS 
 
@@ -53,10 +51,10 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 ### Day-1 / SESSION-3 /03:00PM-04:30PM / Dr Samudra Roy, IIT Kharagpur
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_3_a.png)
 
-### Day-1 / SESSION-3 /04:30PM-05:30PM / Manpreet Singh, Ex - Associate Director, Terminal Ballistic Research Lab, DRDO, Min of Defence
+### Day-1 / SESSION-4 /04:30PM-05:30PM / Manpreet Singh, Ex - Associate Director, Terminal Ballistic Research Lab, DRDO, Min of Defence
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_3_b.png)
 
-### Day-2 / SESSION-1 /10:00AM-11:30AM / Dr Dr Anurag Sharma, IIT Delhi
+### Day-2 / SESSION-1 /10:00AM-11:30AM / Dr Anurag Sharma, IIT Delhi
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_1.png)
 
 ### Day-2 / SESSION-2 /12:00noon-1:30PM/ Dr Rajesh Kumar, IIT Roorkee
@@ -80,7 +78,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 ### Day-4 / SESSION-2 /12:00noon-1:30PM / Mr Pravin Joshi, Director, FOS Pvt Ltd
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/21_slot_2.png)
 
-### Day-4 / SESSION-3 /03:00PM-04:30PM / Sumaya S Gupta, Scientist, SCL Mohali
+### Day-4 / SESSION-3 /03:00PM-04:30PM / Saumya Sen Gupta, Scientist, SCL Mohali
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/21_slot_3.png)
 
 ### Day-5 / SESSION-1 /10:00AM-11:30AM / Dr. H. S. Jatana, Scientist, SCL, Mohali

@@ -1,6 +1,12 @@
 # STC_on_Integrated_Optics
 Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](https://pec.ac.in/ece)
 
+### Brochure
+
+[At official website](https://pec.ac.in/sites/default/files/uploads/events/stc_integrated_optics_brochure.pdf)
+
+![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/main.jpg)
+
 ## Course Coordinators 
 
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/Dr%20Kedia.PNG)
@@ -40,13 +46,6 @@ The following information is provided to assist all the attendees in order to en
 - Please note that all the participants should mute their microphone, when joining the meeting. 
 - It is requested not to ask any questions during the session. If you have any question, then please note it down and ask at the end of session.
 - If you are facing a technical issue, use the chat to get help from the organizing team.
-
-
-## Brochure
-
-[At official website](https://pec.ac.in/sites/default/files/uploads/events/stc_integrated_optics_brochure.pdf)
-
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/main.jpg)
 
 
 ## Scheduled Sessions

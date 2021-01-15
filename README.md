@@ -29,6 +29,19 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 [Link for Registration](https://forms.gle/AMygMGaqyDTMB4zY7)
 
+## IMPORTANT INSTRUCTIONS:
+
+The following information is provided to assist all the attendees in order to ensure smooth participation in the course.
+
+- Please note that GOOGLE MEET will be used during this meeting. If you are not familiar with this tool, 
+  we highly recommend testing it before the meeting, our team is available   to help and schedule a live test with you. 
+  Just send us an email to atulgoyal.phdece17@pec.edu.in.
+- It is requested to keep your camera on during each session, for making the session more interactive.
+- Please note that all the participants should mute their microphone, when joining the meeting. 
+- It is requested not to ask any questions during the session. If you have any question, then please note it down and ask at the end of session.
+- If you are facing a technical issue, use the chat to get help from the organizing team.
+
+
 ## Brochure
 
 [At official website](https://pec.ac.in/sites/default/files/uploads/events/stc_integrated_optics_brochure.pdf)

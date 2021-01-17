@@ -3,7 +3,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 ## For Registered Participants 
 
-[Link for Google meet](meet.google.com/nba-ixrn-gmq)
+[Link for Google meet](https://meet.google.com/nba-ixrn-gmq?hs=224)
 
 ### Brochure
 

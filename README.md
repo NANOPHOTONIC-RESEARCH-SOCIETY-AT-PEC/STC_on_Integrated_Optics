@@ -1,6 +1,10 @@
 # STC_on_Integrated_Optics
 Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](https://pec.ac.in/ece)
 
+## For Registered Participants 
+
+[Link for Google meet](meet.google.com/nba-ixrn-gmq)
+
 ### Brochure
 
 [At official website](https://pec.ac.in/sites/default/files/uploads/events/stc_integrated_optics_brochure.pdf)
@@ -29,11 +33,12 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 **Professor & HEAD-ECE, @PEC(Deemed to be university)**
 
-## REGISTRATION
+## REGISTRATION (closed)
 
-**The registration will be done online using following link.**
+**The registration is closed now.**
 
 [Link for Registration](https://forms.gle/AMygMGaqyDTMB4zY7)
+
 
 ## IMPORTANT INSTRUCTIONS:
 

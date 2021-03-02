@@ -2,11 +2,13 @@
 Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](https://www.pec.ac.in/events/online-short-term-course-integrated-optics)
 
 [REVIEW REPORT](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/tree/main/session_revies)
-## Qualified Participants for certificates
 
-~~## For Registered Participants ~~
+## Qualified Participants for certificates (WILL BE UPDATED SOON BEFORE 5/MARCH/2021)
 
-~~[Link for Google meet](https://meet.google.com/nba-ixrn-gmq?hs=224)~~
+
+~~## For Registered Participants
+
+~~[Link for Google meet](https://meet.google.com/nba-ixrn-gmq?hs=224)
 
 ### Brochure
 

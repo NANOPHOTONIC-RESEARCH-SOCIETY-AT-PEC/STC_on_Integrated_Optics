@@ -6,9 +6,9 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 ## Qualified Participants for certificates (WILL BE UPDATED SOON BEFORE 5/MARCH/2021)
 
 
-~~## For Registered Participants
+~~## For Registered Participants~~
 
-~~[Link for Google meet](https://meet.google.com/nba-ixrn-gmq?hs=224)
+~~[Link for Google meet](https://meet.google.com/nba-ixrn-gmq?hs=224)~~
 
 ### Brochure
 

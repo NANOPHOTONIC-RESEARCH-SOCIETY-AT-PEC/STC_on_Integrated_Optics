@@ -1,5 +1,7 @@
 # STC_on_Integrated_Optics
-Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](https://pec.ac.in/ece)
+Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](https://www.pec.ac.in/events/online-short-term-course-integrated-optics)
+
+## Qualified Participants for certificates
 
 ## For Registered Participants 
 

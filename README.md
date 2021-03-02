@@ -4,9 +4,9 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 [REVIEW REPORT](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/tree/main/session_revies)
 ## Qualified Participants for certificates
 
-## For Registered Participants 
+~~## For Registered Participants ~~
 
-[Link for Google meet](https://meet.google.com/nba-ixrn-gmq?hs=224)
+~~[Link for Google meet](https://meet.google.com/nba-ixrn-gmq?hs=224)~~
 
 ### Brochure
 
@@ -40,7 +40,7 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 **The registration is closed now.**
 
-[Link for Registration](https://forms.gle/AMygMGaqyDTMB4zY7)
+~~[Link for Registration](https://forms.gle/AMygMGaqyDTMB4zY7)~~
 
 
 ## IMPORTANT INSTRUCTIONS:

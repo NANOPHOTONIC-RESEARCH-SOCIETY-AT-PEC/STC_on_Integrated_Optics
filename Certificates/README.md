@@ -43,5 +43,5 @@
 ![Suman Goyal]()
 ![Swamesh Lotlikar](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/LOTLIKAR.jpg)
 ![Vikash Dahiya](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/VIKASH.jpg)
-![Yogesh]()(https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/YOGESH.jpg)
+![Yogesh](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/YOGESH.jpg)
 

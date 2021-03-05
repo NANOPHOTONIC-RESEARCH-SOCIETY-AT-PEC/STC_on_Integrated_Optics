@@ -3,7 +3,9 @@ Organized By Department of ECE at [PEC(Deemed to be university), Chandigarh](htt
 
 [REVIEW REPORT](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/tree/main/session_revies)
 
-## Qualified Participants for certificates (WILL BE UPDATED SOON BEFORE 5/MARCH/2021)
+## Qualified Participants for certificates
+
+![Find your certificates here](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/README.md)
 
 
 ~~## For Registered Participants~~

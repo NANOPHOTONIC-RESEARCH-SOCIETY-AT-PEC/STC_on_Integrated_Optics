@@ -34,13 +34,13 @@
 ![Nisha Kulal](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/NISHA%20KULAL.jpg)
 ![Paramjit Kaur](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/PARAMJIT.jpg)
 ![NITIKA GUPTA](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/NITIKA.jpg)
-![prabhjot chanana]()
+![prabhjot chanana](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/PRABHJOT_CHANANA.jpg)
 
 ![Rishibrind Kumar Upadhyay](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/RISHIBRIND.jpg)
 ![Shubham Mahajan](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/SHUBHAM%20MAHAJAN.jpg)
 ![Shubham Thakur](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/SHUBHAM.jpg)
 ![Dr. Subhash C. Arya](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/SUBHASH.jpg)
-![Suman Goyal]()
+![Suman Goyal](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/SUMAN%20GOYAL.jpg)
 ![Swamesh Lotlikar](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/LOTLIKAR.jpg)
 
 ![Yogesh](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/YOGESH.jpg)

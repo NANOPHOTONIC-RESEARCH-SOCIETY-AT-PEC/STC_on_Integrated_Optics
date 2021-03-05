@@ -4,7 +4,7 @@
 
 **Congratulations for successfully completing the course. Please find attached the E-certificate of participation based on the details provided by you.**
 
-**PARTICIPANTS WITH AT LEAST 50 % ATTENDANCE HAVE BEEN GIVEN THE CERTIFICATES**
+**PARTICIPANTS WITH AT LEAST 70 % ATTENDANCE HAVE BEEN GIVEN THE CERTIFICATES**
 
 ![SYED JUNAID AHMED](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/1.jpg)
 
@@ -19,10 +19,10 @@
 ![Dr. Divya Dhawan](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/DIVYA%20DHAWAN.jpg)
 ![Dr. Sarabpreet Kaur](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/DR%20SARABPREET.jpg)
 ![fatma shehata](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/FATMA.jpg)
-![Harpreet Kaur](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/HARPREET%20KAUR.jpg)
-![jasjot kaur]()
+
+![jasjot kaur](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/jasjot.jpg)
 ![Jeevan Jot singh](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/JEEEVAN.jpg)
-![Dr. Jyoti Kedia]()
+![Dr. Jyoti Kedia](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/jyoti%20kedia.jpg)
 ![Kalpana Sagar](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/KALPANA.jpg)
 ![Kamna Kohli](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/KAMNA.jpg)
 
@@ -30,7 +30,7 @@
 ![Mahrokh Avazpour](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/MAHROKH.jpg)
 ![Majid Hesami](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/MAJID.jpg)
 ![Md Aftab Alam](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/AFTAB%20ALAM.jpg)
-![Sophiya Chugh](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/MAJID.jpg)
+
 ![Nisha Kulal](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/NISHA%20KULAL.jpg)
 ![Paramjit Kaur](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/PARAMJIT.jpg)
 ![NITIKA GUPTA](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Certificates/files/NITIKA.jpg)

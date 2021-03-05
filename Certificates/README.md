@@ -1,6 +1,6 @@
 ## Dear Participants,
 
-**Thank you for attending the Online Short Term Course on Nanotechnology for Electronics and Photonic Devices (NanoDev 2020).** 
+**Thank you for attending the Online Short Term Course on INTEGRATED OPTICS.** 
 
 **Congratulations for successfully completing the course. Please find attached the E-certificate of participation based on the details provided by you.**
 

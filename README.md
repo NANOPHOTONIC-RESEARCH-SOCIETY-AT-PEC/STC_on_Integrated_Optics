@@ -80,7 +80,7 @@ The following information is provided to assist all the attendees in order to en
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/18_slot_3_b.png)
 
 ### Day-2 / SESSION-1 /10:00AM-11:30AM / Dr Anurag Sharma, IIT Delhi
-![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_1.png)
+[![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_1.png)](https://drive.google.com/file/d/1-PZdpx-mCNm4oo7X8O-rCO4fZmEBlq_i/view?usp=sharing)
 
 ### Day-2 / SESSION-2 /12:00noon-1:30PM/ Dr Rajesh Kumar, IIT Roorkee
 ![alt text](https://github.com/NANOPHOTONIC-RESEARCH-SOCIETY-AT-PEC/STC_on_Integrated_Optics/blob/main/Guest%20Speakers/19_slot_2.png)
